@@ -1,0 +1,10 @@
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\bin\Debug\coffee_pos_6034103212.exe.config
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\bin\Debug\coffee_pos_6034103212.exe
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\bin\Debug\coffee_pos_6034103212.pdb
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\obj\Debug\coffee_pos_6034103212.csprojResolveAssemblyReference.cache
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\obj\Debug\coffee_pos_6034103212.Form1.resources
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\obj\Debug\coffee_pos_6034103212.Properties.Resources.resources
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\obj\Debug\coffee_pos_6034103212.csproj.GenerateResource.Cache
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\obj\Debug\coffee_pos_6034103212.csproj.CoreCompileInputs.cache
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\obj\Debug\coffee_pos_6034103212.exe
+C:\Users\withi\Documents\Visual Studio 2017\Projects\coffee_pos_6034103212\coffee_pos_6034103212\obj\Debug\coffee_pos_6034103212.pdb
